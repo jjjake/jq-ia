@@ -1,1 +1,2 @@
-tostring | fromjson? | .metadata.identifier
+def test:
+    fromjson? | .metadata.identifier
