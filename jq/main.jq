@@ -1,0 +1,1 @@
+tostring | fromjson? | .metadata.identifier
